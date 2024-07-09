@@ -2,7 +2,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-
+*.mp3
+*.wav
 # Jupyter Notebook
 .ipynb_checkpoints
 
