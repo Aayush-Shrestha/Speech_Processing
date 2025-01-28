@@ -2,7 +2,7 @@ import torch
 from pydub import AudioSegment
 import os
 
-audio_file = 'nep.wav'
+audio_file = 'ctk.wav'
 
 torch.set_num_threads(1)
 

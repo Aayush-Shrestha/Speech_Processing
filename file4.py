@@ -26,6 +26,7 @@ for timestamp in speech_timestamps:
 
 plt.xlabel('Time (s)')
 plt.ylabel('Amplitude')
+plt.legend()
 plt.title('Audio with Speech Timestamps')
 plt.show()
 
